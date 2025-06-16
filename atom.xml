@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/yufong0815/yufong0815.github.io</id>
+    <id>https://yufong0815.github.io</id>
     <title>Yufong&#39;s Health Life</title>
-    <link href="https://github.com/yufong0815/yufong0815.github.io" />
+    <link href="https://yufong0815.github.io" />
     <updated>2025-06-15T21:48:47.000Z</updated>
     <category term="Tags" />
     <category term="A" />
     <category term="B" />
     <category term="C" />
     <entry>
-        <id>https://github.com/yufong0815/yufong0815.github.io/2025/06/16/myPost01/</id>
+        <id>https://yufong0815.github.io/2025/06/16/myPost01/</id>
         <title>First-time Hexo Installation</title>
-        <link rel="alternate" href="https://github.com/yufong0815/yufong0815.github.io/2025/06/16/myPost01/"/>
+        <link rel="alternate" href="https://yufong0815.github.io/2025/06/16/myPost01/"/>
         <content type="html">&lt;h1 id=&#34;hexo安裝&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo安裝&#34;&gt;#&lt;/a&gt; Hexo 安裝&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL3poLXR3L2luZGV4Lmh0bWw=&#34;&gt;Hexo 官網&lt;/span&gt;&lt;br&gt;
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1XSms3NjV6dEhVZyZhbXA7dD0yMjBz&#34;&gt;第一個安裝教學&lt;/span&gt;&lt;/p&gt;
 &lt;h1 id=&#34;主題安裝&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#主題安裝&#34;&gt;#&lt;/a&gt; 主題安裝&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY2F0ZWdvcmllcy9jb21wdXRlci1zY2llbmNlL25vdGUvdGhlbWUtc2hva2EtZG9jLw==&#34;&gt;Shoka 主題原著&lt;/span&gt;&lt;br&gt;
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUv&#34;&gt; Shoka 博客&lt;/span&gt;&lt;br&gt;
-&lt;a href=&#34;https://github.com/amehime/hexo-theme-shoka&#34;&gt; Shoka’s Github&lt;/a&gt;&lt;/p&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt; Shoka’s Github&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nYXJkZW5jYXZ5LnNpdGUvY291cnNlL2Jsb2cvYmxvZzAxLw==&#34;&gt;花園倉鼠&lt;/span&gt;&lt;br&gt;
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kMTA3NDE4MTA0NS5naXRodWIuaW8v&#34;&gt;単推し湊あくあ&lt;/span&gt;&lt;/p&gt;
 &lt;h1 id=&#34;常用ai翻譯&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常用ai翻譯&#34;&gt;#&lt;/a&gt; 常用 AI 翻譯&lt;/h1&gt;
@@ -33,10 +33,10 @@
         <updated>2025-06-15T21:48:47.000Z</updated>
     </entry>
     <entry>
-        <id>https://github.com/yufong0815/yufong0815.github.io/2025/06/16/hello-world/</id>
+        <id>https://yufong0815.github.io/2025/06/16/hello-world/</id>
         <title>我第一個部落格</title>
-        <link rel="alternate" href="https://github.com/yufong0815/yufong0815.github.io/2025/06/16/hello-world/"/>
-        <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+        <link rel="alternate" href="https://yufong0815.github.io/2025/06/16/hello-world/"/>
+        <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
