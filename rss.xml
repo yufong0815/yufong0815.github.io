@@ -130,6 +130,18 @@
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">https://yufong0815.github.io/2013/12/26/demoImages/</guid>
+            <title>Images</title>
+            <link>https://yufong0815.github.io/2013/12/26/demoImages/</link>
+            <pubDate>Thu, 26 Dec 2013 22:46:49 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This is a image test post.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://placehold.it/350x150.jpg&#34; alt=&#34;Small Picture&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://yufong0815.github.io/2013/12/25/demoGalleryPost/</guid>
             <title>Gallery Post</title>
             <link>https://yufong0815.github.io/2013/12/25/demoGalleryPost/</link>

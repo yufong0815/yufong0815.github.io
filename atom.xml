@@ -127,6 +127,18 @@
         <updated>2025-06-15T21:36:16.866Z</updated>
     </entry>
     <entry>
+        <id>https://yufong0815.github.io/2013/12/26/demoImages/</id>
+        <title>Images</title>
+        <link rel="alternate" href="https://yufong0815.github.io/2013/12/26/demoImages/"/>
+        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://placehold.it/350x150.jpg&#34; alt=&#34;Small Picture&#34;&gt;&lt;/p&gt;
+</content>
+        <updated>2013-12-26T14:46:49.000Z</updated>
+    </entry>
+    <entry>
         <id>https://yufong0815.github.io/2013/12/25/demoGalleryPost/</id>
         <title>Gallery Post</title>
         <link rel="alternate" href="https://yufong0815.github.io/2013/12/25/demoGalleryPost/"/>

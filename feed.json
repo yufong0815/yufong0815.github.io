@@ -43,6 +43,14 @@
             "tags": []
         },
         {
+            "id": "https://yufong0815.github.io/2013/12/26/demoImages/",
+            "url": "https://yufong0815.github.io/2013/12/26/demoImages/",
+            "title": "Images",
+            "date_published": "2013-12-26T14:46:49.000Z",
+            "content_html": "<p>This is a image test post.</p>\n<p><img data-src=\"/assets/wallpaper-2572384.jpg\" alt=\"\"></p>\n<p><img data-src=\"/assets/wallpaper-2311325.jpg\" alt=\"Caption\"></p>\n<p><img data-src=\"/assets/wallpaper-878514.jpg\" alt=\"\"></p>\n<p><img data-src=\"https://placehold.it/350x150.jpg\" alt=\"Small Picture\"></p>\n",
+            "tags": []
+        },
+        {
             "id": "https://yufong0815.github.io/2013/12/25/demoGalleryPost/",
             "url": "https://yufong0815.github.io/2013/12/25/demoGalleryPost/",
             "title": "Gallery Post",
