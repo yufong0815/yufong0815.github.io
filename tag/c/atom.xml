@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yufong0815.github.io/yufong0815</id>
+    <title>Hexo • Posts by &#34;c&#34; tag</title>
+    <link href="https://yufong0815.github.io/yufong0815" />
+    <updated>2025-06-15T21:48:47.000Z</updated>
+    <category term="Tags" />
+    <category term="A" />
+    <category term="B" />
+    <category term="C" />
+    <entry>
+        <id>https://yufong0815.github.io/yufong0815/2025/06/16/myPost01/</id>
+        <title>First-time Hexo Installation</title>
+        <link rel="alternate" href="https://yufong0815.github.io/yufong0815/2025/06/16/myPost01/"/>
+        <content type="html">&lt;h1 id=&#34;hexo安裝&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo安裝&#34;&gt;#&lt;/a&gt; Hexo 安裝&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL3poLXR3L2luZGV4Lmh0bWw=&#34;&gt;Hexo 官網&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1XSms3NjV6dEhVZyZhbXA7dD0yMjBz&#34;&gt;第一個安裝教學&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;主題安裝&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#主題安裝&#34;&gt;#&lt;/a&gt; 主題安裝&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY2F0ZWdvcmllcy9jb21wdXRlci1zY2llbmNlL25vdGUvdGhlbWUtc2hva2EtZG9jLw==&#34;&gt;Shoka 主題原著&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUv&#34;&gt; Shoka 博客&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt; Shoka’s Github&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nYXJkZW5jYXZ5LnNpdGUvY291cnNlL2Jsb2cvYmxvZzAxLw==&#34;&gt;花園倉鼠&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kMTA3NDE4MTA0NS5naXRodWIuaW8v&#34;&gt;単推し湊あくあ&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;常用ai翻譯&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常用ai翻譯&#34;&gt;#&lt;/a&gt; 常用 AI 翻譯&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ncm9rLmNvbS8/cmVmPWFpYXJ0d2Vla2x5&#34;&gt;GROK3&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;其它主題&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#其它主題&#34;&gt;#&lt;/a&gt; 其它主題&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLnNob2theC5rYWl0YWt1Lnh5ei9nZXR0aW5nLXN0YXJ0ZWQv&#34;&gt;ShokaX&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="Tags" />
+        <category term="A" />
+        <category term="B" />
+        <category term="C" />
+        <updated>2025-06-15T21:48:47.000Z</updated>
+    </entry>
+</feed>
