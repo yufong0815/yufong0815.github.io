@@ -1,19 +1,25 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yufong0815.github.io</id>
-    <title>Yufong&#39;s Health Life • Posts by &#34;a&#34; tag</title>
+    <title>健康才能享受美好人生 • Posts by &#34;a&#34; tag</title>
     <link href="https://yufong0815.github.io" />
     <updated>2025-06-15T21:48:47.000Z</updated>
-    <category term="精油" />
-    <category term="芳療" />
     <category term="Tags" />
     <category term="A" />
     <category term="B" />
     <category term="C" />
+    <category term="精油" />
+    <category term="芳療" />
+    <category term="通草花" />
+    <category term="索拉花" />
+    <category term="染色" />
+    <category term="石膏" />
+    <category term="薰香石" />
+    <category term="按摩滾珠瓶" />
     <entry>
-        <id>https://yufong0815.github.io/2025/06/16/myPost01/</id>
+        <id>https://yufong0815.github.io/2025/06/16/hexoSetup/</id>
         <title>First-time Hexo Installation</title>
-        <link rel="alternate" href="https://yufong0815.github.io/2025/06/16/myPost01/"/>
+        <link rel="alternate" href="https://yufong0815.github.io/2025/06/16/hexoSetup/"/>
         <content type="html">&lt;h1 id=&#34;hexo安裝&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo安裝&#34;&gt;#&lt;/a&gt; Hexo 安裝&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL3poLXR3L2luZGV4Lmh0bWw=&#34;&gt;Hexo 官網&lt;/span&gt;&lt;br&gt;
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1XSms3NjV6dEhVZyZhbXA7dD0yMjBz&#34;&gt;第一個安裝教學&lt;/span&gt;&lt;/p&gt;
@@ -28,7 +34,10 @@
 &lt;h1 id=&#34;其它主題&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#其它主題&#34;&gt;#&lt;/a&gt; 其它主題&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLnNob2theC5rYWl0YWt1Lnh5ei9nZXR0aW5nLXN0YXJ0ZWQv&#34;&gt;ShokaX&lt;/span&gt;&lt;/p&gt;
 &lt;h1 id=&#34;hexo新增文章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo新增文章&#34;&gt;#&lt;/a&gt; Hexo 新增文章&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9rZW50ZG9pdC5naXRodWIuaW8vaGV4by8zNTYxOTU4NTkv&#34;&gt;kentdoit&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9rZW50ZG9pdC5naXRodWIuaW8vaGV4by8zNTYxOTU4NTkv&#34;&gt;kentdoit&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kaXNwbGF5Lw==&#34;&gt; 文章圖片設置&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;常用線上程式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常用線上程式&#34;&gt;#&lt;/a&gt; 常用線上程式&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9xdWlja3Jlc2l6ZXIuY29tLw==&#34;&gt;Quick Image Resizer 圖&lt;/span&gt;&lt;/p&gt;
 </content>
         <category term="Tags" />
         <category term="A" />

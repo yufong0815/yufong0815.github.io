@@ -1,15 +1,21 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yufong0815.github.io</id>
-    <title>Yufong&#39;s Health Life • Posts by &#34;精油&#34; tag</title>
+    <title>健康才能享受美好人生 • Posts by &#34;精油&#34; tag</title>
     <link href="https://yufong0815.github.io" />
     <updated>2025-06-15T21:48:47.000Z</updated>
-    <category term="精油" />
-    <category term="芳療" />
     <category term="Tags" />
     <category term="A" />
     <category term="B" />
     <category term="C" />
+    <category term="精油" />
+    <category term="芳療" />
+    <category term="通草花" />
+    <category term="索拉花" />
+    <category term="染色" />
+    <category term="石膏" />
+    <category term="薰香石" />
+    <category term="按摩滾珠瓶" />
     <entry>
         <id>https://yufong0815.github.io/2025/06/16/WuQinXi_11/</id>
         <title>第11週 芳香療法-精油嗅吸瓶 DIY</title>
@@ -58,9 +64,17 @@
 &lt;li&gt;薰香花 (10 入) 20 元 X 10 = 200 元&lt;/li&gt;
 &lt;li&gt;總計: 550 元&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/Copilot_20250616_134421.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;end111&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#end111&#34;&gt;#&lt;/a&gt; end111&lt;/h2&gt;
 </content>
         <category term="精油" />
         <category term="芳療" />
+        <category term="通草花" />
+        <category term="索拉花" />
+        <category term="染色" />
+        <category term="石膏" />
+        <category term="薰香石" />
+        <category term="按摩滾珠瓶" />
         <updated>2025-06-15T21:48:47.000Z</updated>
     </entry>
 </feed>
