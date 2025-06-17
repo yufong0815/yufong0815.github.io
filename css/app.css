@@ -2227,11 +2227,17 @@ main >.inner {
   top: -10%;
   left: -10%;
 }
-.social .item.::before {
-  background-color: ;
+.social .item.facebook::before {
+  background-color: aceboo;
 }
-.social .item. i {
-  color: ;
+.social .item.facebook i {
+  color: aceboo;
+}
+.social .item.instagram::before {
+  background-color: nstagra;
+}
+.social .item.instagram i {
+  color: nstagra;
 }
 .social .item:focus i,
 .social .item:hover i {
