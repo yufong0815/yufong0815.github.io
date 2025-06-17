@@ -7,6 +7,10 @@
         <language>zh-TW</language>
         <pubDate>Mon, 16 Jun 2025 05:48:47 +0800</pubDate>
         <lastBuildDate>Mon, 16 Jun 2025 05:48:47 +0800</lastBuildDate>
+        <category>Hexo</category>
+        <category>Shoka</category>
+        <category>AI</category>
+        <category>Tools</category>
         <category>精油</category>
         <category>芳療</category>
         <category>通草花</category>
@@ -15,10 +19,35 @@
         <category>石膏</category>
         <category>薰香石</category>
         <category>按摩滾珠瓶</category>
-        <category>Hexo</category>
-        <category>Shoka</category>
-        <category>AI</category>
-        <category>Tools</category>
+        <item>
+            <guid isPermalink="true">https://yufong0815.github.io/2025/06/16/hexoSetup/</guid>
+            <title>【HEXO】HEXO安裝及Shoka主題參考連結</title>
+            <link>https://yufong0815.github.io/2025/06/16/hexoSetup/</link>
+            <category>Hexo</category>
+            <category>Shoka</category>
+            <category>AI</category>
+            <category>Tools</category>
+            <pubDate>Mon, 16 Jun 2025 05:48:47 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;hexo安裝&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo安裝&#34;&gt;#&lt;/a&gt; Hexo 安裝&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL3poLXR3L2luZGV4Lmh0bWw=&#34;&gt;Hexo 官網&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1XSms3NjV6dEhVZyZhbXA7dD0yMjBz&#34;&gt;第一個安裝教學&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;主題安裝&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#主題安裝&#34;&gt;#&lt;/a&gt; 主題安裝&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY2F0ZWdvcmllcy9jb21wdXRlci1zY2llbmNlL25vdGUvdGhlbWUtc2hva2EtZG9jLw==&#34;&gt;Shoka 主題原著&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUv&#34;&gt; Shoka 博客&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt; Shoka’s Github&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nYXJkZW5jYXZ5LnNpdGUvY291cnNlL2Jsb2cvYmxvZzAxLw==&#34;&gt;花園倉鼠&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kMTA3NDE4MTA0NS5naXRodWIuaW8v&#34;&gt;単推し湊あくあ&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;常用ai輔助協作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常用ai輔助協作&#34;&gt;#&lt;/a&gt; 常用 AI 輔助協作&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ncm9rLmNvbS8/cmVmPWFpYXJ0d2Vla2x5&#34;&gt;GROK3&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;其它主題&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#其它主題&#34;&gt;#&lt;/a&gt; 其它主題&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLnNob2theC5rYWl0YWt1Lnh5ei9nZXR0aW5nLXN0YXJ0ZWQv&#34;&gt;ShokaX&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;hexo新增文章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo新增文章&#34;&gt;#&lt;/a&gt; Hexo 新增文章&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9rZW50ZG9pdC5naXRodWIuaW8vaGV4by8zNTYxOTU4NTkv&#34;&gt;Kentdoit&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kaXNwbGF5Lw==&#34;&gt; 關於圖片設置&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;常用線上程式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常用線上程式&#34;&gt;#&lt;/a&gt; 常用線上程式&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9xdWlja3Jlc2l6ZXIuY29tLw==&#34;&gt;Quick Image Resizer&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://yufong0815.github.io/2025/06/16/WuQinXi_11/</guid>
             <title>【五禽戲11】芳香療法-精油嗅吸瓶 DIY</title>
@@ -77,35 +106,6 @@
 &lt;li&gt;總計: 550 元&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/Copilot_20250616_134421.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://yufong0815.github.io/2025/06/16/hexoSetup/</guid>
-            <title>【HEXO】HEXO安裝及Shoka主題參考連結</title>
-            <link>https://yufong0815.github.io/2025/06/16/hexoSetup/</link>
-            <category>Hexo</category>
-            <category>Shoka</category>
-            <category>AI</category>
-            <category>Tools</category>
-            <pubDate>Mon, 16 Jun 2025 05:48:47 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;hexo安裝&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo安裝&#34;&gt;#&lt;/a&gt; Hexo 安裝&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL3poLXR3L2luZGV4Lmh0bWw=&#34;&gt;Hexo 官網&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1XSms3NjV6dEhVZyZhbXA7dD0yMjBz&#34;&gt;第一個安裝教學&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;主題安裝&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#主題安裝&#34;&gt;#&lt;/a&gt; 主題安裝&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY2F0ZWdvcmllcy9jb21wdXRlci1zY2llbmNlL25vdGUvdGhlbWUtc2hva2EtZG9jLw==&#34;&gt;Shoka 主題原著&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUv&#34;&gt; Shoka 博客&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt; Shoka’s Github&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nYXJkZW5jYXZ5LnNpdGUvY291cnNlL2Jsb2cvYmxvZzAxLw==&#34;&gt;花園倉鼠&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kMTA3NDE4MTA0NS5naXRodWIuaW8v&#34;&gt;単推し湊あくあ&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;常用ai輔助協作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常用ai輔助協作&#34;&gt;#&lt;/a&gt; 常用 AI 輔助協作&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ncm9rLmNvbS8/cmVmPWFpYXJ0d2Vla2x5&#34;&gt;GROK3&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;其它主題&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#其它主題&#34;&gt;#&lt;/a&gt; 其它主題&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLnNob2theC5rYWl0YWt1Lnh5ei9nZXR0aW5nLXN0YXJ0ZWQv&#34;&gt;ShokaX&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;hexo新增文章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo新增文章&#34;&gt;#&lt;/a&gt; Hexo 新增文章&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9rZW50ZG9pdC5naXRodWIuaW8vaGV4by8zNTYxOTU4NTkv&#34;&gt;Kentdoit&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kaXNwbGF5Lw==&#34;&gt; 關於圖片設置&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;常用線上程式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常用線上程式&#34;&gt;#&lt;/a&gt; 常用線上程式&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9xdWlja3Jlc2l6ZXIuY29tLw==&#34;&gt;Quick Image Resizer&lt;/span&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
