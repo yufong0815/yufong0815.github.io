@@ -7,32 +7,72 @@
         <language>zh-TW</language>
         <pubDate>Mon, 16 Jun 2025 05:48:47 +0800</pubDate>
         <lastBuildDate>Mon, 16 Jun 2025 05:48:47 +0800</lastBuildDate>
-        <category>精油</category>
-        <category>芳療</category>
-        <category>索拉花</category>
-        <category>染色</category>
-        <category>石膏</category>
-        <category>薰香石</category>
-        <category>按摩滾珠瓶</category>
         <category>Hexo</category>
         <category>Shoka</category>
         <category>AI</category>
         <category>Tools</category>
         <category>CL-01-0407</category>
+        <category>精油</category>
+        <category>芳療</category>
         <category>精油DIY</category>
+        <category>索拉花</category>
+        <category>染色</category>
+        <category>石膏</category>
+        <category>薰香石</category>
+        <category>按摩滾珠瓶</category>
+        <item>
+            <guid isPermalink="true">https://yufong0815.github.io/2025/06/16/hexoSetup/</guid>
+            <title>【HEXO】HEXO安裝及Shoka主題參考連結</title>
+            <link>https://yufong0815.github.io/2025/06/16/hexoSetup/</link>
+            <category>Hexo</category>
+            <category>Shoka</category>
+            <category>AI</category>
+            <category>Tools</category>
+            <pubDate>Mon, 16 Jun 2025 05:48:47 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;hexo安裝&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo安裝&#34;&gt;#&lt;/a&gt; Hexo 安裝&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL3poLXR3L2luZGV4Lmh0bWw=&#34;&gt;Hexo 官網&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1XSms3NjV6dEhVZyZhbXA7dD0yMjBz&#34;&gt;第一個安裝教學&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;主題安裝&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#主題安裝&#34;&gt;#&lt;/a&gt; 主題安裝&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY2F0ZWdvcmllcy9jb21wdXRlci1zY2llbmNlL25vdGUvdGhlbWUtc2hva2EtZG9jLw==&#34;&gt;Shoka 主題原著&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUv&#34;&gt; Shoka 博客&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt; Shoka’s Github&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nYXJkZW5jYXZ5LnNpdGUvY291cnNlL2Jsb2cvYmxvZzAxLw==&#34;&gt;花園倉鼠&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kMTA3NDE4MTA0NS5naXRodWIuaW8v&#34;&gt;単推し湊あくあ&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;其它主題&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#其它主題&#34;&gt;#&lt;/a&gt; 其它主題&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLmFuaGV5dS5jb20v&#34;&gt;安知魚&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1HdFljRlo1NUdKSQ==&#34;&gt;安知魚的安裝影片&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;hexo用到的插件工具&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo用到的插件工具&#34;&gt;#&lt;/a&gt; HEXO 用到的插件工具&lt;/h1&gt;
+&lt;h2 id=&#34;內容加密&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#內容加密&#34;&gt;#&lt;/a&gt; 內容加密&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaXRmYW5yLmNjLzIwMjEvMDQvMTYvaGV4by1ibG9nLWFydGljbGUtZW5jcnlwdGlvbi8=&#34;&gt;hexo-blog-encrypt&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaXRmYW5yLmNjLzIwMjEvMDQvMTYvaGV4by1ibG9nLWFydGljbGUtZW5jcnlwdGlvbi8=&#34;&gt;hexo-blog-encrypt 原著&lt;/span&gt;&lt;br&gt;
+ [其它網頁]&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9vbmx5enl4LmNvbS9wb3N0cy8zOTI5NS5odG1s&#34;&gt;https://onlyzyx.com/posts/39295.html&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;局部內容隱藏但不能加密&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#局部內容隱藏但不能加密&#34;&gt;#&lt;/a&gt; 局部內容隱藏 (但不能加密)&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2ZsZXRjaHRvOTkvaGV4by1zbGlkaW5nLXNwb2lsZXI=&#34;&gt;hexo-sliding-spoiler&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuenl3dnZkLmNvbS9ub3Rlcy9oZXhvL3dlYnNpdGUvMTYtZm9sZC1jb250ZW50L2ZvbGQtY29udGVudC8=&#34;&gt;hexo-sliding-spoiler&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;常用ai輔助協作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常用ai輔助協作&#34;&gt;#&lt;/a&gt; 常用 AI 輔助協作&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ncm9rLmNvbS8/cmVmPWFpYXJ0d2Vla2x5&#34;&gt;GROK3&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;其它主題-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#其它主題-2&#34;&gt;#&lt;/a&gt; 其它主題&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLnNob2theC5rYWl0YWt1Lnh5ei9nZXR0aW5nLXN0YXJ0ZWQv&#34;&gt;ShokaX&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;hexo新增文章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo新增文章&#34;&gt;#&lt;/a&gt; Hexo 新增文章&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9rZW50ZG9pdC5naXRodWIuaW8vaGV4by8zNTYxOTU4NTkv&#34;&gt;Kentdoit&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kaXNwbGF5Lw==&#34;&gt; 關於圖片設置&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;常用線上程式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常用線上程式&#34;&gt;#&lt;/a&gt; 常用線上程式&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9xdWlja3Jlc2l6ZXIuY29tLw==&#34;&gt;Quick Image Resizer&lt;/span&gt;&lt;/p&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/spoiler.css&#34; type=&#34;text/css&#34;&gt;&lt;script src=&#34;/js/spoiler.js&#34; type=&#34;text/javascript&#34; async&gt;&lt;/script&gt; ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://yufong0815.github.io/2025/06/16/WuQinXi_11/</guid>
             <title>【五禽戲11】芳香療法-精油嗅吸瓶 DIY</title>
             <link>https://yufong0815.github.io/2025/06/16/WuQinXi_11/</link>
+            <category>CL-01-0407</category>
             <category>精油</category>
             <category>芳療</category>
+            <category>精油DIY</category>
             <category>索拉花</category>
             <category>染色</category>
             <category>石膏</category>
             <category>薰香石</category>
             <category>按摩滾珠瓶</category>
-            <category>CL-01-0407</category>
-            <category>精油DIY</category>
             <pubDate>Mon, 16 Jun 2025 05:48:47 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;運用中醫多元方式延緩失能之感覺統合訓練1112&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#運用中醫多元方式延緩失能之感覺統合訓練1112&#34;&gt;#&lt;/a&gt; 運用中醫多元方式延緩失能之感覺統合訓練 (11/12)&lt;/h1&gt;
 &lt;h2 id=&#34;第11週-芳香療法-精油嗅吸瓶-diy&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第11週-芳香療法-精油嗅吸瓶-diy&#34;&gt;#&lt;/a&gt; 第 11 週 芳香療法 - 精油嗅吸瓶 DIY&lt;/h2&gt;
@@ -170,46 +210,6 @@
 
     &lt;/div&gt;
 &lt;/div&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/spoiler.css&#34; type=&#34;text/css&#34;&gt;&lt;script src=&#34;/js/spoiler.js&#34; type=&#34;text/javascript&#34; async&gt;&lt;/script&gt; ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://yufong0815.github.io/2025/06/16/hexoSetup/</guid>
-            <title>【HEXO】HEXO安裝及Shoka主題參考連結</title>
-            <link>https://yufong0815.github.io/2025/06/16/hexoSetup/</link>
-            <category>Hexo</category>
-            <category>Shoka</category>
-            <category>AI</category>
-            <category>Tools</category>
-            <pubDate>Mon, 16 Jun 2025 05:48:47 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;hexo安裝&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo安裝&#34;&gt;#&lt;/a&gt; Hexo 安裝&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL3poLXR3L2luZGV4Lmh0bWw=&#34;&gt;Hexo 官網&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1XSms3NjV6dEhVZyZhbXA7dD0yMjBz&#34;&gt;第一個安裝教學&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;主題安裝&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#主題安裝&#34;&gt;#&lt;/a&gt; 主題安裝&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY2F0ZWdvcmllcy9jb21wdXRlci1zY2llbmNlL25vdGUvdGhlbWUtc2hva2EtZG9jLw==&#34;&gt;Shoka 主題原著&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUv&#34;&gt; Shoka 博客&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt; Shoka’s Github&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nYXJkZW5jYXZ5LnNpdGUvY291cnNlL2Jsb2cvYmxvZzAxLw==&#34;&gt;花園倉鼠&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kMTA3NDE4MTA0NS5naXRodWIuaW8v&#34;&gt;単推し湊あくあ&lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&#34;其它主題&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#其它主題&#34;&gt;#&lt;/a&gt; 其它主題&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLmFuaGV5dS5jb20v&#34;&gt;安知魚&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1HdFljRlo1NUdKSQ==&#34;&gt;安知魚的安裝影片&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;hexo用到的插件工具&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo用到的插件工具&#34;&gt;#&lt;/a&gt; HEXO 用到的插件工具&lt;/h1&gt;
-&lt;h2 id=&#34;內容加密&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#內容加密&#34;&gt;#&lt;/a&gt; 內容加密&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaXRmYW5yLmNjLzIwMjEvMDQvMTYvaGV4by1ibG9nLWFydGljbGUtZW5jcnlwdGlvbi8=&#34;&gt;hexo-blog-encrypt&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaXRmYW5yLmNjLzIwMjEvMDQvMTYvaGV4by1ibG9nLWFydGljbGUtZW5jcnlwdGlvbi8=&#34;&gt;hexo-blog-encrypt 原著&lt;/span&gt;&lt;br&gt;
- [其它網頁]&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9vbmx5enl4LmNvbS9wb3N0cy8zOTI5NS5odG1s&#34;&gt;https://onlyzyx.com/posts/39295.html&lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&#34;局部內容隱藏但不能加密&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#局部內容隱藏但不能加密&#34;&gt;#&lt;/a&gt; 局部內容隱藏 (但不能加密)&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2ZsZXRjaHRvOTkvaGV4by1zbGlkaW5nLXNwb2lsZXI=&#34;&gt;hexo-sliding-spoiler&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuenl3dnZkLmNvbS9ub3Rlcy9oZXhvL3dlYnNpdGUvMTYtZm9sZC1jb250ZW50L2ZvbGQtY29udGVudC8=&#34;&gt;hexo-sliding-spoiler&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;常用ai輔助協作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常用ai輔助協作&#34;&gt;#&lt;/a&gt; 常用 AI 輔助協作&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ncm9rLmNvbS8/cmVmPWFpYXJ0d2Vla2x5&#34;&gt;GROK3&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;其它主題-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#其它主題-2&#34;&gt;#&lt;/a&gt; 其它主題&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLnNob2theC5rYWl0YWt1Lnh5ei9nZXR0aW5nLXN0YXJ0ZWQv&#34;&gt;ShokaX&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;hexo新增文章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo新增文章&#34;&gt;#&lt;/a&gt; Hexo 新增文章&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9rZW50ZG9pdC5naXRodWIuaW8vaGV4by8zNTYxOTU4NTkv&#34;&gt;Kentdoit&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kaXNwbGF5Lw==&#34;&gt; 關於圖片設置&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;常用線上程式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常用線上程式&#34;&gt;#&lt;/a&gt; 常用線上程式&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9xdWlja3Jlc2l6ZXIuY29tLw==&#34;&gt;Quick Image Resizer&lt;/span&gt;&lt;/p&gt;
-&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/spoiler.css&#34; type=&#34;text/css&#34;&gt;&lt;script src=&#34;/js/spoiler.js&#34; type=&#34;text/javascript&#34; async&gt;&lt;/script&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://yufong0815.github.io/2025/06/16/demoHelloWorld/</guid>
