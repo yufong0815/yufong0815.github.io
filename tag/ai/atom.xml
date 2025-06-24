@@ -6,7 +6,6 @@
     <updated>2025-06-15T21:48:47.000Z</updated>
     <category term="精油" />
     <category term="芳療" />
-    <category term="通草花" />
     <category term="索拉花" />
     <category term="染色" />
     <category term="石膏" />
@@ -16,6 +15,8 @@
     <category term="Shoka" />
     <category term="AI" />
     <category term="Tools" />
+    <category term="CL-01-0407" />
+    <category term="精油DIY" />
     <entry>
         <id>https://yufong0815.github.io/2025/06/16/hexoSetup/</id>
         <title>【HEXO】HEXO安裝及Shoka主題參考連結</title>
